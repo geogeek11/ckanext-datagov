@@ -1,0 +1,12 @@
+ /* {
+  background: #003870 !important;
+} */
+
+
+.account-masthead, .homepage, .masthead, .site-footer, body, .tags {
+  background-color: #003870 !important;
+}
+
+.search-form{
+  background-color: #0d6cac !important;
+}
